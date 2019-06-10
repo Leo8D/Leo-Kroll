@@ -19,6 +19,5 @@ int main(int argc, char** argv) {
 	} else if(tal1 = tal2) {
 		cout << tal1 << endl << tal2;
 	}
-	
 	return 0;
 }
